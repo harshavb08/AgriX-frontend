@@ -1,7 +1,7 @@
 {
     "name": "frontend",
-    "proxy": "https://better-uniform-frog.cyclic.app",
-    "homepage": "https://agrix.netlify.app",
+    "proxy": "better-uniform-frog.cyclic.app",
+
     "version": "0.1.0",
     "private": true,
     "dependencies": {
