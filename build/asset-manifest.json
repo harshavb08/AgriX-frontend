@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc820a85.css",
+    "main.js": "/static/js/main.ebb97d04.js",
+    "static/js/787.9c2888cf.chunk.js": "/static/js/787.9c2888cf.chunk.js",
+    "static/media/slide3.jpg": "/static/media/slide3.f94ee7e5223aefc0448e.jpg",
+    "static/media/slide1.jpg": "/static/media/slide1.95cb858741e806f59e2c.jpg",
+    "static/media/slide2.jpg": "/static/media/slide2.0bf5040f58f863c1110c.jpg",
+    "static/media/dollar-symbol.png": "/static/media/dollar-symbol.79c2e7f1d8679a7af837.png",
+    "static/media/AmazonLogo.png": "/static/media/AmazonLogo.19e5df3e3e8811e0564a.png",
+    "static/media/package.png": "/static/media/package.2ba2ec9fa53ba04cdcff.png",
+    "static/media/checked.png": "/static/media/checked.ff714e8648581386f981.png",
+    "static/media/logo.png": "/static/media/logo.eae8ab2d9e0f5639e0e9.png",
+    "static/media/shopping-basket.png": "/static/media/shopping-basket.97d08e2ae0a4d5b4dfc7.png",
+    "static/media/user.png": "/static/media/user.81f1a46a8a34fd1bcc0b.png",
+    "static/media/Box.png": "/static/media/Box.3c23c82381cbf3f970de.png",
+    "static/media/logo.svg": "/static/media/logo.60887251ddb3854ee808080b54b5e34d.svg",
+    "index.html": "/index.html",
+    "main.cc820a85.css.map": "/static/css/main.cc820a85.css.map",
+    "main.ebb97d04.js.map": "/static/js/main.ebb97d04.js.map",
+    "787.9c2888cf.chunk.js.map": "/static/js/787.9c2888cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc820a85.css",
+    "static/js/main.ebb97d04.js"
+  ]
+}
